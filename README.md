@@ -1,6 +1,6 @@
 #  💻Bernard Avelino
 
-**`Desenvolvedor FullStack e Gestor de Trafégo`**
+**`Estudante de desenvolvimento de softwares e Gestor de Trafégo`**
 <br>
 <br>
 Me chamo Bernardo Avelino, sou estudante do curso técnico em Desenvolvimento e Análise de Sistemas e também atuo como Gestor de Tráfego Pago. Desde cedo, sempre fui fascinado pelo mundo da tecnologia e pela forma como ela transforma vidas e cria novas possibilidades.
